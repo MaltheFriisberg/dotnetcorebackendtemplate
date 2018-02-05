@@ -1,0 +1,10 @@
+/home/malthe/Documents/backend/webapi/bin/Debug/netcoreapp2.0/webapi.deps.json
+/home/malthe/Documents/backend/webapi/bin/Debug/netcoreapp2.0/webapi.runtimeconfig.json
+/home/malthe/Documents/backend/webapi/bin/Debug/netcoreapp2.0/webapi.runtimeconfig.dev.json
+/home/malthe/Documents/backend/webapi/bin/Debug/netcoreapp2.0/webapi.dll
+/home/malthe/Documents/backend/webapi/bin/Debug/netcoreapp2.0/webapi.pdb
+/home/malthe/Documents/backend/webapi/obj/Debug/netcoreapp2.0/webapi.csproj.CoreCompileInputs.cache
+/home/malthe/Documents/backend/webapi/obj/Debug/netcoreapp2.0/webapi.AssemblyInfoInputs.cache
+/home/malthe/Documents/backend/webapi/obj/Debug/netcoreapp2.0/webapi.AssemblyInfo.cs
+/home/malthe/Documents/backend/webapi/obj/Debug/netcoreapp2.0/webapi.dll
+/home/malthe/Documents/backend/webapi/obj/Debug/netcoreapp2.0/webapi.pdb
